@@ -48,7 +48,7 @@ p {
     font-size: 16px;
     margin-bottom: 32px;
 }
-
+/*changed the div="hero" to the more semantic friendly <main>*/
 .main {
     height: 800px;
     width: 100%;
@@ -58,11 +58,12 @@ p {
     background-position: center;
 }
 
+/*float helps the image stay on the left side*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*float right makes the other image hang to the right, this creates the back and forth of the pictures you see in the <article> section*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -73,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* i changed the div class="benefits to the semnatic head <aside>*/
 .aside {
     margin-right: 20px;
     padding: 20px;
@@ -84,6 +85,10 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/*a lot of the css within the former "benefit" class was very redundant. i removed the redudancies and replaced them with the more semantic friendly <figure>*/
+
+
 
 .figure {
     color:white;
@@ -99,6 +104,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* same thing with the images and writing inside the former div="content". I changed the div to meet semantic html (<article>). After the name change i consolidated them together*/
 
 .articlecontent {
     margin-bottom: 20px;
@@ -118,6 +125,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 .footer {
     padding: 30px;
