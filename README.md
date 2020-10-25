@@ -2,7 +2,7 @@
 
 ## Description 
 
-For this assignment I was tasked by a marketing agency to help their websites "accessibility". Having been given already written code it was up to me to observe the "scout rule" and clean up the outdated html that was within the file. I changed the outdated divs with more semantic friendly selectors. I also helped consolidate the css and helped element some of the redundancy. I left comments in the style.css file for where i made changes and the justificiation for some of my changes. 
+For this assignment I was tasked by a marketing agency to help their websites "accessibility". Having been given already written code it was up to me to observe the "scout rule" and clean up the out-dated html that was within the file. I changed the out-dated divs with more semantic friendly selectors. I also helped consolidate the css and helped eliminate some of the redundancy. I left comments in the style.css file for where i made changes and the justificiation for some of my changes. 
 
 
 
