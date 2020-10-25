@@ -100,7 +100,7 @@ p {
     max-width: 150px;
 }
 
-.articleimg {
+.articlecontent {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -109,12 +109,12 @@ p {
     color: #ffffff;
 }
 
-.articleimg img {
+.articlecontent img {
     max-height: 200px;
 }
 
 
-.articleimg h2 {
+.articlecontent h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
